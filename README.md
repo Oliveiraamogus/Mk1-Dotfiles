@@ -1,5 +1,7 @@
 # Overview
-This is the first version of my dotfiles.
+This is the first version of my dotfiles. 
+
+These were customized by me personaly for an old and slow laptop with the objective of running smoothly yet still looking slick and modern, with implementations like barebones custom scripts for custom themes for example. 
 
 Bear in mind that the repo and its contents were made to be compatible with Arch Linux using Hyprland.
 
